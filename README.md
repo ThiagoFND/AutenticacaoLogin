@@ -1,4 +1,4 @@
-<h1 align="center">🎲 Api game fivem V1</h1>
+<h1 align="center">🎲 Api Autenticação e Validação V1</h1>
 <p>O objetivo desta aplicação é desenvolver uma site utilizando JPA e contendo tecnologias como Spring Security para validações.</p>
 
 ## :heavy_check_mark: Features
@@ -18,18 +18,11 @@ Notações utilizadas:
 * @EnableWebSecurity
 * @Override
 * @RestController
-* @CrossOrigin
 * @RequestMapping
 * @PostMapping
 * @GetMapping
-* @PutMapping
 * @DeleteMapping
-* @SuppressWarnings
-* Operation
-* @Tag
 * @RestController
-* @JsonPropertyOrder
-* @JsonProperty
 * @Mapping
 * @Service
 * @Value
@@ -43,5 +36,3 @@ Hibernate
 Java Persistence API (JPA)
 MySQL
 Api RESTful
-
-| Agenda Dockerizada
